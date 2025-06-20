@@ -10,7 +10,7 @@ from fpdf import FPDF
 st.set_page_config(page_title="PlasmoDetect", page_icon="🧬", layout="centered")
 
 # Load model
-model = load_model("malaria_model.keras")
+model = load_model("malaria_model.h5")
 
 # Languages
 translations = {
