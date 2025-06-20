@@ -1,7 +1,5 @@
-tensorflow==2.15.0
-numpy
-pandas
-scikit-learn
-pillow
 streamlit
+tensorflow
+Pillow
+numpy
 fpdf
